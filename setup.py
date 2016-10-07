@@ -9,4 +9,8 @@ setup(name='dec2bin',
       maintainer_email='anrobits@yahoo.com.br',
       url='https://github.com/andrekorol/dec2bin',
       py_modules=['dec2bin'],
-     )
+      license='GNU GPLv3',
+      platforms='Linux, MacOS, Windows',
+      long_description='dec2bin is a Python function that takes an integer or floating '
+                       'point as parameter and returns the binary representation of that number.'
+      )
