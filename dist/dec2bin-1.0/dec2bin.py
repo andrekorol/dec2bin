@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 def dec2bin(num):
     """
     :param num: Enter any integer or float. It can be both positive or negative
