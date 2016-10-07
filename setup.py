@@ -13,8 +13,8 @@ setup(name='dec2bin',
       py_modules=['dec2bin'],
       license='GNU GPLv3',
       platforms='POSIX, MacOS, Windows',
-      long_description='dec2bin is a Python function that takes an integer or floating '
-                       'point as parameter and returns the binary representation of that number.',
+      long_description='dec2bin is a Python function that takes a decimal (integer or floating '
+                       'point) as parameter and returns the binary representation of that number.',
       classifiers=[
           'Development Status :: 5 - Production/Stable',
           'Environment :: Console',
