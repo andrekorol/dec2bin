@@ -4,7 +4,8 @@ Source code of the dec2bin Python function. This function immediately turns any 
 INSTALLATION:
 To install the dec2bin module just run 'pip install dec2bin'(without quotes) on your OS Shell (terminal).
 You can also install the module straight from the source code. Just go to the dist directory and choose which package suits you best.
-If you choose the Windows Installer, just follow the steps provided and the dec2bin module will be installed on your system.
+If you choose the Windows Installer just follow the steps provided, make sure to choose the correct Python installation and then the 
+dec2bin module will be installed on the desired Python installation.
 If you choose either the .zip package or the .tar.gz package, just extract the files from the package, go to the new
 dec2bin directory and on the Shell run 'python setup.py install' (without quotes).
 
