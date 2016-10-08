@@ -1,5 +1,5 @@
 # dec2bin
-Source code of the dec2bin Python function. This function immediately converts any decimal number(int or float) to it's binary form.
+Source code of the dec2bin Python function. This function immediately converts any decimal number(int or float) to its binary form.
 
 INSTALLATION:
 To install the dec2bin module just run 'pip install dec2bin'(without quotes) on your OS Shell (terminal).
@@ -23,6 +23,9 @@ You can also type: from dec2bin import dec2bin
 And if you want to abbreviate the dec2bin function you can type: from dec2bin import dec2bin as anyabbreviationyouwant
 For example: from dec2bin import dec2bin as db
 To use the dec2bin function on your own scripts just write 'from dec2bin import *'(without quotes) at the top of your script.
+
+PACKAGE DOCUMENTATION:
+http://pythonhosted.org/dec2bin/
 
 Copyright (C) 2016  Andre Rossi Korol
 

@@ -2,7 +2,7 @@
 from distutils.core import setup
 
 setup(name='dec2bin',
-      version='1.0.3',
+      version='1.0.4',
       description='Converts from decimal to binary',
       author='Andre Rossi Korol',
       author_email='anrobits@yahoo.com.br',
